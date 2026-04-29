@@ -1,5 +1,6 @@
 ## Reflection
 1.
+
 It tracks changes without creating duplicate filenames like final_v2 and allows you to record the project state more safely.
 2.
 Because it acts as a compass to show the state of the project and what changed before and after important commands.
@@ -35,8 +36,8 @@ It provides a Source Control panel to visually see modified files and manage cha
 This repository was created for Chapter 9 lab exercises.
 
 ## Author
-Replace this line with your name.
 
+Zahira
 ## Purpose
 To practice shell commands, Git initialization, status checking, staging, and committing.
 
